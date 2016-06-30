@@ -1,0 +1,5 @@
+body,html { margin: 0px; border: 0px; }
+
+#next-button{ width: 100vw; text-align:center; cursor:pointer; }
+#next-button:hover { font-weight: bold; }
+
